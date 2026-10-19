@@ -1,3 +1,7 @@
+> **已搬家**：這個 mod 從 2026-10-19 起放在合併的 repo [dbfoxtw/probably-stolen-mods](https://github.com/dbfoxtw/probably-stolen-mods/tree/main/mods/collect-all-water)，新版本、原始碼與問題回報都在那裡。這個 repo 已封存，舊版本的 Releases 仍可下載。
+>
+> **Moved**: since 2026-10-19 this mod lives in the combined repository [dbfoxtw/probably-stolen-mods](https://github.com/dbfoxtw/probably-stolen-mods/tree/main/mods/collect-all-water). New releases, source code and issues are there. This repository is archived; old releases can still be downloaded.
+
 # Probably Stolen 一鍵收水 mod（Collect All Water）
 
 *Probably Stolen*（Demo）的 mod：水容器的右鍵選單多一行「收集幽靈水」，按一下就從店裡所有的水分收集器把水倒過來，倒滿為止。使用 MelonLoader，非官方製作。
